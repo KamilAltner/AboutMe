@@ -14,4 +14,5 @@ Focus Areas: Data Governance, Predictive Analytics, Reporting & Insights, Metric
 
 🌍 Languages: Fluent in English and Polish
 
-📧 Get in Touch: Message me on LinkedIn
+📧 Get in Touch: Message me on [LinkedIn](https://www.linkedin.com/in/altner).
+
