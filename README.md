@@ -8,7 +8,7 @@ Focus Areas: Data Governance, Predictive Analytics, Reporting & Insights, Metric
 
 🧰 Tools: Python, SQL, Tableau, IBM Cognos, Power BI, Snowflake
 
-🌱 Current Project: Analyzing government spending and its economic impact to provide actionable insights for policy-making and resource allocatio.
+🌱 Current Project: Analyzing government spending and its economic impact to provide actionable insights for policy-making and resource allocation.
 
 💜 Passion: Building vibrant communities in analytics & tech
 
