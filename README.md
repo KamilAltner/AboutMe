@@ -1,6 +1,6 @@
 👋🏼 Hi, I am Kamil Altner.
 
-📊 Data Analyst 📈 | Based in New Jersey | Specializing in ♻️ Renewable Energy, 💶 Banking and Non-Profit Industries 
+📊 Data Analyst 📈 | Based in New Jersey | Specializing in 🏭 Manufacturing, ♻️ Renewable Energy, 💶 Banking and Non-Profit Industries 
 
 Interests: Product Analytics & User Experiences
 
@@ -14,5 +14,5 @@ Focus Areas: Data Governance, Predictive Analytics, Reporting & Insights, Metric
 
 🌍 Languages: Fluent in English and Polish
 
-📧 Get in Touch: Message me on [LinkedIn](https://www.linkedin.com/in/altner).
+📧 Get in Touch: Message me on [LinkedIn](https://www.linkedin.com/in/altner) or [X](https://x.com/KamilAltner).
 
