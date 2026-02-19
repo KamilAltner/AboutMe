@@ -1,4 +1,4 @@
-👋🏼 Hi, I am Kamil Altner.
+👋🏼 Hi, I am Kamil Wakulik.
 
 📊 Data Analyst 📈 | Based in New Jersey | Specializing in 🏭 Manufacturing, ♻️ Renewable Energy, 💶 Banking and Non-Profit Industries 
 
